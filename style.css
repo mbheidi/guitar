@@ -1,20 +1,15 @@
 .blue {
 color: blue;
 }
-
 body{
-  background: pink;
+background: pink;
 }
-
 img{
-  
   border: 5px double blue;
 }
-
 #welcome {
 background-color : rgb(179, 217, 255);
 }
 #hello {
 border : 2px solid Violet;
 }
-

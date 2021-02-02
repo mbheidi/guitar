@@ -1,6 +1,9 @@
 .blue {
 color: blue;
-background: green;
+}
+
+body{
+  background: green
 }
 #welcome {
 background-color : rgb(179, 217, 255);
